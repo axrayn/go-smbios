@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/digitalocean/go-smbios/smbios"
+	"github.com/axrayn/go-smbios/smbios"
 	"github.com/axrayn/go-smbios/smbios/cpu"
 )
 
