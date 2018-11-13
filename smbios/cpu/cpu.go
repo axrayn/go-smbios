@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/digitalocean/go-smbios/smbios"
+	"github.com/axrayn/go-smbios/smbios"
 )
 
 var (
