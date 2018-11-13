@@ -1,4 +1,4 @@
-go-smbios [![Build Status](https://travis-ci.org/digitalocean/go-smbios.svg?branch=master)](https://travis-ci.org/digitalocean/go-smbios) [![GoDoc](https://godoc.org/github.com/digitalocean/go-smbios/smbios?status.svg)](https://godoc.org/github.com/digitalocean/go-smbios/smbios) [![Go Report Card](https://goreportcard.com/badge/github.com/digitalocean/go-smbios)](https://goreportcard.com/report/github.com/digitalocean/go-smbios)
+go-smbios [![Build Status](https://travis-ci.org/axrayn/go-smbios.svg?branch=master)](https://travis-ci.org/axrayn/go-smbios) [![GoDoc](https://godoc.org/github.com/digitalocean/go-smbios/smbios?status.svg)](https://godoc.org/github.com/digitalocean/go-smbios/smbios) [![Go Report Card](https://goreportcard.com/badge/github.com/digitalocean/go-smbios)](https://goreportcard.com/report/github.com/digitalocean/go-smbios)
 =========
 
 Package `smbios` provides detection and access to System Management BIOS (SMBIOS)
