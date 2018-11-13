@@ -20,7 +20,7 @@ import (
 	"log"
 
 	"github.com/digitalocean/go-smbios/smbios"
-	"github.com/digitalocean/go-smbios/smbios/cpu"
+	"github.com/axrayn/go-smbios/smbios/cpu"
 )
 
 func main() {
