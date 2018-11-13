@@ -50,7 +50,7 @@ func main() {
 
 		// Code based on: https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.1.1.pdf.
 
-                var myCPU cpu.Cpu
+                var myCPU cpu.CPU
 		myCPU.Get(s)
 
 		fmt.Printf("%+v\n", myCPU)
